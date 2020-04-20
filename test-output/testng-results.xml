@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60656" started-at="2020-04-20T17:04:02Z" finished-at="2020-04-20T17:05:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60656" started-at="2020-04-20T17:04:02Z" finished-at="2020-04-20T17:05:02Z">
+      <class name="PortillosAndroidTesting">
+        <test-method status="PASS" signature="testForPortillosLogin()[pri:1, instance:PortillosAndroidTesting@4501b7af]" name="testForPortillosLogin" duration-ms="46262" started-at="2020-04-20T12:04:02Z" finished-at="2020-04-20T12:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForPortillosLogin -->
+        <test-method status="PASS" signature="testForAddItemToCart()[pri:2, instance:PortillosAndroidTesting@4501b7af]" name="testForAddItemToCart" duration-ms="14380" started-at="2020-04-20T12:04:48Z" finished-at="2020-04-20T12:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForAddItemToCart -->
+      </class> <!-- PortillosAndroidTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
